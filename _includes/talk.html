@@ -22,7 +22,7 @@
 			{% if page.year != null %}
 				{% assign year = page.year %}
 			{% else %}
-				{% assign year = site.data.egsr.current-year %}
+				{% assign year = site.data.confcoffee.current-year %}
 			{% endif %}
 			{% assign allTalks = site.data.talks[year]  | sort: 'talk_id' %}
 

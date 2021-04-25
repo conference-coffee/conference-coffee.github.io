@@ -1,17 +1,13 @@
 # Site navigation links
 
-2020:
-- title: Program
-  url: program
-- title: Call for Papers
-  url: call-for-papers
-- title: Committee
-  url: committee
+2021:
+- title: News
+  url: news
+- title: Organizers
+  url: organizers
 - title: Sponsors
   url: sponsors
-- title: MAM
-  url: mam
+- title: FAQ
+  url: faq  
 - title: Social Mixers
   url: social-mixers
-- title: Live
-  url: live

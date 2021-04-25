@@ -1,10 +1,6 @@
 # Site settings
-title: "EGSR"
-tagline: "Eurographics Symposium on Renderings 2020"
-
-# URL - Deployment
-#url: "egsr2020.london"
-#url: "localhost:4000"
+title: "Conference coffee"
+tagline: "The best conference coffee and tea"
 
 # Handling Reading
 safe: true
@@ -19,7 +15,7 @@ plugins:
   - jekyll-redirect-from
 
 # Contact
-email: "egsr2020@cs.ucl.ac.uk"
+email: ""
 
 # Social
 #facebook: egsr-4668468684?
@@ -33,10 +29,3 @@ exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
 
 
 theme: jekyll-theme-slate
-
-collections:
-  session:
-    output: true
-    permalink: /session/:path/
-    title: Session
-    sort_by: session_id
